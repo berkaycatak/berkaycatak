@@ -16,5 +16,6 @@ You can click the Preview link to take a look at your changes.
 | :---: | :---: | :---: |
 | ![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaycatak&show_icons=true&theme=buefy)| ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycatak&show_icons=true&theme=buefy) | ![profile-trophy](https://github-profile-trophy.vercel.app/?username=berkaycatak&row=2&column=2&theme=flat&no-frame=true&margin-w=30&margin-h=40&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C")|
 
-![](https://hit.yhype.me/github/profile?user_id=34205493)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berkaycatak&theme=tokyonight_duo)](https://git.io/streak-stats)
 
+![](https://hit.yhype.me/github/profile?user_id=34205493)
