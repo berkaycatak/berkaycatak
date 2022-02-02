@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @berkaycatak
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 berkaycatak/berkaycatak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![snake gif](https://github.com/ShadeOfDream/ShadeOfDream/blob/output/github-contribution-grid-snake.gif)
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaycatak&show_icons=true&theme=buefy)-->
 
@@ -23,4 +20,5 @@ You can click the Preview link to take a look at your changes.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berkaycatak&theme=tokyonight_duo)](https://git.io/streak-stats)
 
-![snake gif](https://github.com/ShadeOfDream/ShadeOfDream/blob/output/github-contribution-grid-snake.gif)
+![](https://hit.yhype.me/github/profile?user_id=34205493)
+
