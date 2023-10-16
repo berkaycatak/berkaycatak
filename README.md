@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img width="2000" src="https://github.com/ShadeOfDream/ShadeOfDream/blob/output/github-contribution-grid-snake.gif">
+<!--!<img width="2000" src="https://github.com/ShadeOfDream/ShadeOfDream/blob/output/github-contribution-grid-snake.gif">-->
 
 <!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=berkaycatak&show_icons=true&theme=buefy)-->
 <!--![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycatak&show_icons=true&theme=buefy)</br>-->
