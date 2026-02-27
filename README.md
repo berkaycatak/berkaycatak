@@ -18,4 +18,4 @@
 ⠀⠀⠈⠻⣄⡀⠀⠉⠓⠾⠤⠧⠤⠤⠖⠋⠁⠀⢀⡴⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠉⠓⠲⠶⠶⠞⠛⠉⠀⢀⣠⠞⠁⠀⠀
 ⠀⠀⠀⠀⠈⠙⠶⣤⣀⣀⠀⠀⠀⢀⣀⣠⡴⡞⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠛⠲⢤⣄⣀⣀⣀⣀⣤⡤⡶⠛⠁⠀⠀⠀⠀
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=berkaycatak&theme=tokyonight_duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=berkaycatak&theme=radical&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
